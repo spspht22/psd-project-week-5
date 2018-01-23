@@ -1,0 +1,158 @@
+body {
+	margin: 0 auto;
+}
+
+/*blue section*/
+.blue {
+	background-color: #a8d4dd;
+}
+
+.nav-link {
+	color: black;
+	font-size: 20px;
+	padding: 3px 4px;
+}
+
+.nav-link:hover{
+	background-color: black;
+	color: white;
+	border-radius: 3px;
+	padding: 3px 4px;
+}
+
+.row h1{
+	color: white;
+}
+
+.dots h2 {
+	text-align: center;
+	color: white;
+	font-size: 17px;
+}
+/*white section*/
+.white img {
+	height: 50%
+}
+
+.white .col-md-4 {
+	height: 480px;
+}
+
+/*green section*/
+
+.green {
+	background-color: #99D2A5;
+}
+.green h2 {
+	color: white;
+	font-family: 'Noto Serif', serif;
+	font-weight: bold;
+}
+
+.green p {
+	color: white;
+}
+
+.nav_green li a {
+	color: white;
+}
+
+.nav_green li a:hover {
+	border: 2px solid white;
+	color: white;
+	border-radius: 3px;
+	padding: 3px 4px;
+	background-color: #99D2A5;
+}
+
+
+.green .row {
+	margin:0 10%;
+}
+
+.green button {
+	background-color: white;
+	color: #C1C1C0;
+	border: none;
+}
+
+/*grey section*/
+.grey {
+	background-color: #F0F0F0;
+}
+
+.first {
+	background-color: #98D3A5;
+	color: white;
+	border: none;
+}
+.second {
+	background-color: #A2D3DD;
+	color: white;
+	border: none;
+}
+
+/*pink*/
+.pink {
+	background-color: #E0B7C7;
+}
+
+/*.pink img {
+	height: 40%;
+}*/
+
+
+.pink .fa-facebook {
+	background-color: #3047A7;
+	border-radius: 18px;
+    padding: 9.5px 14px;
+}
+
+.pink .fa-twitter {
+	background-color: #31A6F5;
+	border-radius: 18px;
+    padding: 9.5px 11px;
+}
+
+.pink .fa-pinterest-p {
+	background-color: #AC3041;
+	border-radius: 18px;
+    padding: 9.5px 12px;
+}
+
+/*blue section 2 */
+.blue-2 {
+	background-color: #B3D3DE;
+	position: relative;
+	bottom: 48px;
+}
+
+.blue-2 button {
+	background-color: #FFFDFD;
+	color: #B2D2DD;
+
+}
+/*dark section or footer*/
+.dark {
+	background-color: #3C3C3C;
+	position: relative;
+    bottom: 48px;
+}
+
+.dark button {
+	background-color: #FFFDFD;
+	color: #B2D2DD;
+	border: none;
+}
+
+.dark .fa {
+    padding: 12px 13px;
+    border-radius: 29px;
+    color: #3C3C3C;
+    font-size: 23px;
+    background-color: black;
+}
+
+.dark .fa-tint {
+    padding: 12px 17px;
+}
